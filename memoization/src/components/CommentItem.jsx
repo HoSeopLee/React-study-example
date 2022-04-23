@@ -48,5 +48,5 @@ function CommentItem({ title, content, likes, onClick }) {
     </Profiler>
   );
 }
-export default memo(CommentItem);
-// export default CommentItem;
+// export default memo(CommentItem);
+export default CommentItem;
